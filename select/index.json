@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "16:28",
+  "base_artist": "君島大空",
+  "createdAt": "2026-02-13T22:41:27.280657Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "16:28",
+      "artist": "君島大空",
+      "has_synced": false,
+      "path": "select/pl_01_16_28_君島大空.txt"
+    }
+  ]
+}
