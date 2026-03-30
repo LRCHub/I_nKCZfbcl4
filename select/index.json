@@ -2,8 +2,16 @@
   "version": 1,
   "base_track": "16:28",
   "base_artist": "君島大空",
-  "createdAt": "2026-02-13T22:42:25.018522Z",
+  "createdAt": "2026-03-30T05:21:25.408438Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "16:28",
+      "artist": "君島大空",
+      "has_synced": true,
+      "path": "select/01_16_28_君島大空.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
@@ -11,6 +19,15 @@
       "artist": "君島大空",
       "has_synced": false,
       "path": "select/pl_01_16_28_君島大空.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "16:28",
+      "artist": "君島大空",
+      "has_synced": false,
+      "path": "select/localdb_01_16_28_君島大空.txt",
+      "repo_name": "I_nKCZfbcl4"
     }
   ]
 }
